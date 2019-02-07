@@ -18,6 +18,11 @@
     "npm": "~6.4.1"
   },
   "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-inject": "^5.0.0",
+    "gulp-svgmin": "^1.2.3",
+    "gulp-svgstore": "^6.1.0",
+    "svg-sprite-loader": "^3.0.0",
     "babel-core": "^6.26.3",
     "babel-eslint": "^8.0.0",
     "babel-loader": "^7.0.0",
@@ -52,11 +57,5 @@
     "webpack": "^3.0.0",
     "whatwg-fetch": "^2.0.0"
   },
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-inject": "^5.0.0",
-    "gulp-svgmin": "^1.2.3",
-    "gulp-svgstore": "^6.1.0",
-    "svg-sprite-loader": "^3.0.0"
-  }
+  "devDependencies": {}
 }
