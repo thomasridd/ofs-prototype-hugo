@@ -77,7 +77,7 @@ gulp.task("server", ["hugo", "css", "js", "svg"], () => {
     server: {
       baseDir: "./dist"
     },
-    port: process.env.PORT || 3001
+    port: process.env.PORT || 80
   });
   gulp.watch("./src/js/**/*.js", ["js"]);
   gulp.watch("./src/css/**/*.css", ["css"]);
