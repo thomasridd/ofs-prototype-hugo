@@ -15,7 +15,7 @@
   "license": "MIT",
   "engines": {
     "node": "~10.15.0",
-    "npm": "~6.5.0"
+    "npm": "~6.4.1"
   },
   "dependencies": {
     "babel-core": "^6.26.3",
