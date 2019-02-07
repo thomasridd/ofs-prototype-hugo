@@ -13,6 +13,10 @@
   },
   "author": "",
   "license": "MIT",
+  "engines": {
+    "node": "~10.15.0",
+    "npm": "~6.5.0"
+  },
   "dependencies": {
     "babel-core": "^6.26.3",
     "babel-eslint": "^8.0.0",
